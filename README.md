@@ -31,12 +31,6 @@ I am a Physics, Mathematics, and Astrophysics student at **CHRIST (Deemed to be 
 
 ---
 
-### 📊 GitHub Stats
-![Madhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE_URL)
 - 🔭 Working on: Exoplanetary orbital resonances and atmospheric modeling.
