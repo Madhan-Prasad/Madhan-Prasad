@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Madhan-Prasad
 - 👀 I’m interested in Astronomy/Astrophysics and Cosmology
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Space Programs
 - 📫 How to reach me: gmadhanprasad12@gmail.om
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im CEO and Founder of Eureka Exchange
 
 
 # Hi there, I'm Madhan Prasad! 👋 
@@ -17,18 +15,15 @@ I am a Physics, Mathematics, and Astrophysics student at **CHRIST (Deemed to be 
 
 ### 🚀 Highlights & Contributions
 - **NASA Feedback:** Identified and reported an orbital period discrepancy in the **KIC 10001893 system** within NASA’s *Eyes on Exoplanets*, which was later confirmed by their team.
-- **Project Lead:** Co-founder of **Eureka Exchange**, a global platform for student collaboration in space science.
-- **Event Organizer:** Spearheaded **Enigma’s End**, a university-level cryptanalysis and mathematics challenge.
 - **Current Focus:** Developing regression models for climate prediction and computer vision tools for sunspot detection.
-
+- Reseach Intern at Raman Research Insttute (APRIL-MAY 2026)
+- 
 ---
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python (Data Science & Physics Simulations), LaTeX, SQL
 - **AI/ML:** Scikit-learn, Pandas, NumPy, Regression Analysis
 - **Science:** Astrophysical data analysis (Keplerian dynamics, ARIEL mission specs)
-- **Other:** Cryptanalysis, Research Poster Design, Scientific Communication
-
 ---
 
 ### 📫 Connect with me
