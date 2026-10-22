@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Madhan-Prasad
 - 👀 I’m interested in Astronomy/Astrophysics and Cosmology
 - 💞️ I’m looking to collaborate on Space Programs
-- 📫 How to reach me: gmadhanprasad12@gmail.om
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: gmadhanprasad12@gmail.com
 
 
 # Hi there, I'm Madhan Prasad! 👋 
@@ -17,7 +16,7 @@ I am a Physics, Mathematics, and Astrophysics student at **CHRIST (Deemed to be 
 - **NASA Feedback:** Identified and reported an orbital period discrepancy in the **KIC 10001893 system** within NASA’s *Eyes on Exoplanets*, which was later confirmed by their team.
 - **Current Focus:** Developing regression models for climate prediction and computer vision tools for sunspot detection.
 - Reseach Intern at Raman Research Insttute (APRIL-MAY 2026)
-- 
+- Project Student at Tata Institute of Fundamental Research 
 ---
 
 ### 🛠️ Tech Stack & Tools
