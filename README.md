@@ -36,5 +36,5 @@ Currently an undergraduate researcher at **CHRIST (Deemed to be University)**, B
 
 ### Contact & Links
 - **Email:** gmadhanprasad12@gmail.com
-- **LinkedIn:** [linkedin.com/in/YOUR_PROFILE_URL](www.linkedin.com/in/g-madhan-prasad-675066319)
+- **LinkedIn:** [www.linkedin.com/in/g-madhan-prasad-675066319](www.linkedin.com/in/g-madhan-prasad-675066319)
 - **Institution:** Department of Physics and Electronics, CHRIST (Deemed to be University), Bangalore
